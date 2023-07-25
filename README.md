@@ -1,4 +1,4 @@
-This repository contains code, data, and results for All-NBA team predictions for the 2022/23 season.
+This repository contains code, data, and results for **All-NBA team** predictions for the **2022/23** season.
 Our most recent predictions were:
 |Team|G|G|F|F|C|
 --:|:--|:--|:--|:--|:--|
